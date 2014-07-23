@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406154341 source:/home/mauro/progettiCodeBlock/coda_statica_c/coda.c
+	"coda.h"
+
+1406152290 /home/mauro/progettiCodeBlock/coda_statica_c/coda.h
+	<stddef.h>
+	<stdint.h>
+	"nodo.h"
+
+1406153761 /home/mauro/progettiCodeBlock/coda_statica_c/nodo.h
+
+1406154602 source:/home/mauro/progettiCodeBlock/coda_statica_c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"coda.h"
+
